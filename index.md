@@ -1,8 +1,8 @@
 # Yeachan Park
-### Postdoctoral research fellow
+### Assistant professor at Sejong University
 
 ## Summary
-I am a postdoctoral fellow at KIAS. I received my Ph.D. from Seoul National University (SNU) under the supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
+I am an assistant professor in the department of mathematics and statistics at Sejong University. I was a postdoctoral fellow at KIAS. I received my Ph.D. from Seoul National University (SNU) under the supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
 
 I am interested in theoretical machine learning, with a focus on the expressive power of neural networks, the geometry of loss surfaces, and training dynamics. My research interests also extend to practical applications, including low-level vision models, privacy-preserving models, and math-solving models.
 
@@ -55,8 +55,10 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 #### - **Yeachan Park**, Myungjoo Kang
 
 ## Job Experience
+### **Sejong University**   
+#### - Assistant professor | Mar. 2025 - present
 ### **Korea Institute for Advanced Study (KIAS)**   
-#### - AI Research Fellow | Sep. 2022 - present
+#### - AI Research Fellow | Sep. 2022 - Feb. 2025
 
 
 ## Projects  
