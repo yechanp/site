@@ -45,6 +45,10 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 #### - **Yeachan Park\***, Myeongho Jeon\*, Junho Lee\*, Myungjoo Kang
   
 ## Preprint
+### Universal Robustness of Certified\\Floating-Point Neural Networks, submitted
+#### - 
+### Floating-Point Neural Networks Can Represent Almost All Floating-Point Functions, submitted
+#### - 
 ### On Expressive Power of Quantized Neural Networks under Fixed-Point Arithmetic, submitted
 #### - Geonho Hwang\*, **Yeachan Park\*** , Sejun Park
 ### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, [Paper](https://arxiv.org/abs/2405.16658), submitted
