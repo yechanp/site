@@ -1,7 +1,7 @@
 title: Yeachan Park  # You can add your name here
 
 description: Assistant professor at Sejong University.  # Fix hyphenation 
-email : ychpark [at] sejong.re.kr
+email : ychpark [at] sejong.ac.kr
 
 show_downloads: false # Fix spelling
 
@@ -15,5 +15,5 @@ plugins:
 
 
 social-network-links:
-  email: "ychpark@kias.re.kr"
+  email: "ychpark@sejong.ac.kr"
   google-scholar: G-EEuLQAAAAJ
