@@ -40,6 +40,10 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 
 ### Floating-Point Neural Networks Can Represent Almost All Floating-Point Functions, International Conference on Machine Learning (ICML), 2025 [Paper](https://openreview.net/forum?id=NBtgS3OJh4)
 #### - Geonho Hwang\*, **Yeachan Park\***, Wonyeol Lee, Sejun Park
+### Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking), International Conference on Machine Learning (ICML), 2025 [Paper](https://openreview.net/forum?id=nrlGUdlo16)
+#### - Yoonsoo Nam\*, Seok Hyeong Lee\*, Clémentine Carla Juliette Dominé, **Yeachan Park**, Charles London, Wonyl Choi, Niclas Alexander Göring, Seungjai Lee
+### Floating-Point Neural Networks Are Provably Robust Universal Approximators, International Conference on Computer Aided Verification (CAV), 2025 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_14)
+#### Geonho Hwang\*, Wonyeol Lee\*, Yeachan Park, Sejun Park, Feras Saad 
 ### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, Neurocomputing, Aug. 2025 [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225010197)
 #### - **Yeachan Park\*** , Minseok Kim\*, Yeoneung Kim
 ###  Expressive Power of ReLU and Step Networks under Floating-Point Operations, Neural Networks, Jul. 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002211)
@@ -50,8 +54,6 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 #### - **Yeachan Park\***, Myeongho Jeon\*, Junho Lee\*, Myungjoo Kang
   
 ## Preprint
-### Universal Robustness of Certified\\Floating-Point Neural Networks, submitted
-### Floating-Point Neural Networks Can Represent Almost All Floating-Point Functions, submitted
 ### On Expressive Power of Quantized Neural Networks under Fixed-Point Arithmetic, submitted
 #### - Geonho Hwang\*, **Yeachan Park\*** , Sejun Park
 ### Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks, [Paper](https://arxiv.org/abs/2408.08286), submitted
