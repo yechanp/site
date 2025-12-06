@@ -37,6 +37,11 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 - Web Frameworks: FastAPI, React
 
 ## Publications (* Equal contribution)
+
+### Floating-Point Neural Networks Can Represent Almost All Floating-Point Functions, International Conference on Machine Learning (ICML), 2025 [Paper](https://openreview.net/forum?id=NBtgS3OJh4)
+#### - Geonho Hwang\*, **Yeachan Park\***, Wonyeol Lee, Sejun Park
+### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, Neurocomputing, Aug. 2025 [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225010197)
+#### - **Yeachan Park\*** , Minseok Kim\*, Yeoneung Kim
 ###  Expressive Power of ReLU and Step Networks under Floating-Point Operations, Neural Networks, Jul. 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002211)
 #### - **Yeachan Park\***, Geonho Hwang\*, Wonyeol Lee, Sejun Park
 ###  Self-knowledge distillation via dropout, Computer Vision and Image Understanding, 2023. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001005)
@@ -49,8 +54,6 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 ### Floating-Point Neural Networks Can Represent Almost All Floating-Point Functions, submitted
 ### On Expressive Power of Quantized Neural Networks under Fixed-Point Arithmetic, submitted
 #### - Geonho Hwang\*, **Yeachan Park\*** , Sejun Park
-### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, [Paper](https://arxiv.org/abs/2405.16658), submitted
-#### - **Yeachan Park\*** , Minseok Kim\*, Yeoneung Kim
 ### Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks, [Paper](https://arxiv.org/abs/2408.08286), submitted
 ####  - **Yeachan Park**
 ### Membership inference attacks against object detection models, [Paper](https://arxiv.org/abs/2001.04011)
