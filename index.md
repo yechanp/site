@@ -42,7 +42,7 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 #### - Geonho Hwang\*, **Yeachan Park\***, Wonyeol Lee, Sejun Park
 ### Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking), International Conference on Machine Learning (ICML), 2025 [Paper](https://openreview.net/forum?id=nrlGUdlo16)
 #### - Yoonsoo Nam\*, Seok Hyeong Lee\*, Clémentine Carla Juliette Dominé, **Yeachan Park**, Charles London, Wonyl Choi, Niclas Alexander Göring, Seungjai Lee
-### Floating-Point Neural Networks Are Provably Robust Universal Approximators, International Conference on Computer Aided Verification (CAV), 2025 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_14)
+### Floating-Point Neural Networks Are Provably Robust Universal Approximators, International Conference on Computer Aided Verification (CAV), 2025 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_14), [Code](https://github.com/yechanp/floating-point-iua-theorem)
 #### Geonho Hwang\*, Wonyeol Lee\*, Yeachan Park, Sejun Park, Feras Saad 
 ### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, Neurocomputing, Aug. 2025 [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225010197)
 #### - **Yeachan Park\*** , Minseok Kim\*, Yeoneung Kim
