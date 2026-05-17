@@ -2,8 +2,8 @@ title: Yeachan Park  # You can add your name here
 
 description: Assistant professor at Sejong University.  # Fix hyphenation 
 email: ychpark [at] sejong.ac.kr
-Google Scholar: [Link](https://scholar.google.com/citations?user=G-EEuLQAAAAJ)
-Openreview: [Link](https://openreview.net/profile?id=%7EYeachan_Park1)
+Google Scholar: "https://scholar.google.com/citations?user=G-EEuLQAAAAJ"
+Openreview: "https://openreview.net/profile?id=%7EYeachan_Park1"
 
 show_downloads: false # Fix spelling
 
