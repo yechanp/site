@@ -38,13 +38,13 @@ I am interested in theoretical machine learning, with a focus on the expressive 
 
 ## Publications (* Equal contribution)
 
-### Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks, International Conference on Machine Learning (ICML), 2026 (To appear)
+### Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks, International Conference on Machine Learning (ICML), 2026 [Paper](https://openreview.net/forum?id=QDVz3V4Vle)
 #### - Hyeonbin Hwang, **Yeachan Park**
-### On Expressive Power of Floating-Point Transformers, International Conference on Machine Learning (ICML), 2026 (To appear)
+### On Expressive Power of Floating-Point Transformers, International Conference on Machine Learning (ICML), 2026 [Paper](https://openreview.net/forum?id=5yBuQP7yDy)
 #### - Sejun Park, **Yeachan Park**, Geonho Hwang
-### On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions, International Conference on Machine Learning (ICML), 2026 (To appear)
+### On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions, International Conference on Machine Learning (ICML) Oral, 2026 [Paper](https://openreview.net/forum?id=8IxY2DUiBi)
 #### - Sejun Park, **Yeachan Park**, Geonho Hwang
-### Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients, International Conference on Machine Learning (ICML), 2026 (To appear)
+### Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients, International Conference on Machine Learning (ICML), 2026 [Paper](https://openreview.net/forum?id=g89qqA6qmD)
 #### - Sejun Park, **Yeachan Park**, Geonho Hwang
 ### Floating-Point Neural Networks Can Represent Almost All Floating-Point Functions, International Conference on Machine Learning (ICML), 2025 [Paper](https://openreview.net/forum?id=NBtgS3OJh4)
 #### - Geonho Hwang, **Yeachan Park**, Wonyeol Lee, Sejun Park
